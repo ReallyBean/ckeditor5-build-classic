@@ -96,6 +96,6 @@
     }
   },
   "dependencies": {
-    "@ckeditor/ckeditor5-font": "^31.1.0"
+    "@ckeditor/ckeditor5-font": "^19.0.0"
   }
 }
